@@ -1079,12 +1079,12 @@ frp QQ group: 606194980
 
 ### AliPay
 
-![donation-alipay](/doc/pic/donate-alipay.png)
+#![donation-alipay](/doc/pic/donate-alipay.png)
 
 ### Wechat Pay
 
-![donation-wechatpay](/doc/pic/donate-wechatpay.png)
+#![donation-wechatpay](/doc/pic/donate-wechatpay.png)
 
 ### PayPal
 
-Donate money by [PayPal](https://www.paypal.me/fatedier) to my account **fatedier@gmail.com**.
+#Donate money by [PayPal](https://www.paypal.me/fatedier) to my account **fatedier@gmail.com**.
